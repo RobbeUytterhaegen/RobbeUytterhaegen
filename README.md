@@ -28,3 +28,6 @@
 | least favorite| sql           |
 
 
+## How to reach me
+- [email](mailto:Robbe.Uytterhaegen@gmail.com)
+- discord: helpy_129384733
